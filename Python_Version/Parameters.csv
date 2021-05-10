@@ -1,0 +1,36 @@
+Description,Symbol,Value,Units,Note
+Colonic Transit Time,q,2,d,User can adjust this parameter.  2 d is typical for adults
+Percentage of Small Intestine Surgically Removed,SIR,0.8,%/100,User can adjust this parameter
+Hydrolysis Coefficient for NSP in the large intestine,khyd_NSP,0.8,1/d,
+Hydrolysis Coefficient for RS in the large intestine,khyd_RS,2.8,1/d,
+Hydrolysis Coefficient for Protein in the large intestine,khyd_P,2.2,1/d,
+Absorption Coefficient of Fats in the large intestine,kabs_F,0.48,1/d,
+Carbohydrate Fraction in Diet,C_frac,0.5,%/100,Nordgaard et al. (1996)
+Protein Fraction in Diet,P_frac,0.2,%/100,Nordgaard et al. (1996)
+Fat Fraction in Diet,F_frac,0.3,%/100,Nordgaard et al. (1996)
+Gastrointestinal Secretion of Carbohydrate,GIS_carb,3,g/d,
+Gastrointestinal Secretion of Protein,GIS_protein,5,g/d,
+Gastrointestinal Secretion of Fat,GIS_fat,1.1,g/d,This Work
+Digestivity coefficient for AvSS,aAvSS,0.9,,This work
+Digestivity coefficient for protein,aprotein,0.9,,This work
+Digestivity coefficient for fat,afat,0.96,,This work
+Surgical Inefficiency for AvSS,bAvSS,1.041,,This work
+Surgical Inefficiency for protein,bprotein,1.147,,This work
+Surgical Inefficiency for fat,bfat,0.93,,This work
+Anatomical Reserve Length for AvSS,ARL_AvSS,0.43,,
+Anatomical Reserve Length for protein,ARL_protein,0.12,,
+Anatomical Reserve Length for Fat,ARL_fat,0,,
+carbohydrate,fc,0.1,%/100,Based on Brock Microbiology of Organism
+protein,fp,0.55,%/100,Based on Brock Microbiology of Organism
+fat,ff,0.09,%/100,Based on Brock Microbiology of Organism
+RNA,fr,0.21,%/100,Based on Brock Microbiology of Organism
+DNA,fdna,0.03,%/100,Based on Brock Microbiology of Organism
+The e- eq from substrate fractioned to biomass for carbohdyrate fermentation,fs0_C,0.21,e- eq-X/e- eq-S,
+The e- eq to the acceptor fractioned to acetic acid for carbohdyrate fermentation,fa (Ac)_C,0.521512386,,
+The e- eq to the acceptor fractioned to propionic acid for carbohdyrate fermentation,fa (Pr)_C,0.195567145,,
+The e- eq to the acceptor fractioned to butyric acid for carbohdyrate fermentation,fa (Bu)_C,0.282920469,,
+The e- eq to the acceptor fractioned to aromatics for protein fermentation,fs0_P,0.1,e- eq-X/e- eq-S,
+The e- eq to the acceptor fractioned to acetic acid for protein fermentation,fa (Ac)_P,0.44291067,,
+The e- eq to the acceptor fractioned to propionic acid for protein fermentation,fa (Pr)_P,0.166091501,,
+The e- eq to the acceptor fractioned to butyric acid for protein fermentation,fa (Bu)_P,0.240279039,,
+The e- eq to the acceptor fractioned to aromatics for protein fermentation,fa (Aro)_P,0.150718789,,

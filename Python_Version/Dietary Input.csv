@@ -1,0 +1,10 @@
+Description,Symbol,Value,Units,Note
+Gross Energy Intake,GEI,2370,kcal/d,
+Average Daily Fiber Intake,FDM,22.9,g/d,
+Average Daily Fiber Intake,FDE,93.89,kcal/d,
+Carbohydrate Intake,CI,1185,kcal/d,
+Protein Intake,PI,474,kcal/d,
+Fat Intake,FI,711,kcal/d,
+Non-starch polysaccharides,NSP,0.0396,%/100,Assume that dietary  is made of equal amounts of NSP and RS
+Resistant Starch,RS,0.0396,%/100,
+Available Starch and Sugar,AvSS,0.92,%/100,
